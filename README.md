@@ -2,6 +2,8 @@
 
 A single-screen training-quote generator built with Next.js. One quote, one button, and a full-bleed photo behind the text that cross-fades each time you ask for a new line.
 
+**[Live demo](https://quote-generator-app-zeta.vercel.app/)**
+
 It started as a small build exercise. I then used it to practise careful layout work, and to check the result by measuring the rendered page instead of eyeballing it.
 
 | Desktop (1440px) | Phone (390px) |
